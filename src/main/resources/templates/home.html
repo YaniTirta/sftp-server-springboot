@@ -1,0 +1,60 @@
+<!-- src/main/resources/templates/home.html -->
+<!DOCTYPE html>
+<html lang="id" xmlns:th="[http://www.thymeleaf.org](http://www.thymeleaf.org)"
+      xmlns:sec="[http://www.thymeleaf.org/extras/spring-security](http://www.thymeleaf.org/extras/spring-security)"> <!-- Tambahkan namespace security -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selamat Datang di Aplikasi Aman!</title>
+    <script src="[https://cdn.tailwindcss.com](https://cdn.tailwindcss.com)"></script>
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+        @import url('[https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap](https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap)');
+    </style>
+</head>
+<body class="bg-gradient-to-br from-indigo-500 via-purple-500 to-pink-500 flex items-center justify-center min-h-screen p-4 text-white">
+    <div class="bg-white bg-opacity-90 backdrop-blur-sm p-8 md:p-10 rounded-xl shadow-2xl w-full max-w-2xl text-center border border-gray-100 flex flex-col md:flex-row items-center gap-8">
+        <div class="md:w-1/2 flex justify-center items-center">
+            <!-- Gambar Placeholder yang Cantik -->
+            <img src="[https://placehold.co/400x300/a78bfa/ffffff?text=Secure%0AApp](https://placehold.co/400x300/a78bfa/ffffff?text=Secure%0AApp)"
+                 alt="[Image of Secure Application Logo]"
+                 class="rounded-lg shadow-lg max-w-full h-auto object-cover">
+        </div>
+        <div class="md:w-1/2 flex flex-col items-center md:items-start text-gray-800">
+            <h1 class="text-4xl font-extrabold mb-4 leading-tight">
+                Selamat Datang di <span class="text-indigo-600">Aplikasi Aman</span> Kami!
+            </h1>
+            <p class="text-lg mb-6 leading-relaxed">
+                Platform terpercaya Anda untuk mengelola data dengan keamanan optimal. Jelajahi fitur-fitur kami yang dilindungi dan nikmati pengalaman yang mulus.
+            </p>
+
+            <div class="space-y-4 w-full flex flex-col items-center">
+                <!-- Tampilkan tombol "Pergi ke Halaman Dilindungi" dan "Logout" hanya jika sudah login -->
+                <a th:href="@{/secured}"
+                   sec:authorize="isAuthenticated()"
+                   class="w-full px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg
+                          hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500
+                          focus:ring-offset-2 transition duration-200 ease-in-out shadow-md">
+                    Pergi ke Halaman Dilindungi
+                </a>
+                <form th:action="@{/logout}" method="post" sec:authorize="isAuthenticated()" class="w-full">
+                    <button type="submit" class="w-full px-6 py-3 bg-red-600 text-white font-semibold rounded-lg
+                                   hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-red-500
+                                   focus:ring-offset-2 transition duration-200 ease-in-out shadow-md">
+                        Logout
+                    </button>
+                </form>
+
+                <!-- Tampilkan tombol Login hanya jika belum login -->
+                <a th:href="@{/login}"
+                   sec:authorize="!isAuthenticated()"
+                   class="w-full px-6 py-3 bg-green-600 text-white font-semibold rounded-lg
+                          hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-500
+                          focus:ring-offset-2 transition duration-200 ease-in-out shadow-md">
+                    Login
+                </a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
