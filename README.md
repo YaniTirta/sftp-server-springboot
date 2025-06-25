@@ -29,7 +29,7 @@ This project is a simple yet functional web-based SFTP interface built using **S
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Concura/SFTP-Project.git
+   git clone https://github.com/YaniTirta/sftp-server-springboot.git
 
 2. Build and run:
    ./mvnw spring-boot:run
