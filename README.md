@@ -53,3 +53,15 @@ Main interface of the SFTP Web application:
 
 License :
 This project is shared openly to support learning and development. Feel free to fork and enhance it. See LICENSE file for details.
+
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-blue?logo=buy-me-a-coffee&style=flat)](https://buymeacoffee.com/ytirta)
+
+## 🙌 Dukungan / Support
+
+Jika proyek ini bermanfaat, pertimbangkan untuk mendukung saya:
+
+☕ [Buy Me a Coffee](https://buymeacoffee.com/ytirta)  
+📘 [Dapatkan versi e-book di sini](https://lynk.id/ytirta/o1054g1w0ypq)
+
+
