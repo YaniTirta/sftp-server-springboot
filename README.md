@@ -1,4 +1,4 @@
-# sftp-server-springboot
+# SFTP-Project
 Building SFTP Server using Java Spring Boot
 
 # 📁 SFTP Web Interface with Spring Boot & Thymeleaf
@@ -14,6 +14,9 @@ This project is a simple yet functional web-based SFTP interface built using **S
   - **Preview**
   - **Download**
 - ⬆️ Upload button for adding new files (placed outside the file grid)
+- Secure access directly to the folder using SFTP protocol at a configured port (in this example using port 2222)
+  - Use SFTP Client software to test this feature such as FileZila or WinSCP
+  - Build another project as SFTP Client to manage the SFTP Server folders locally and securely. This project can be integrated with your application as per your requirement.
 
 ## 🛠️ Tech Stack
 
@@ -26,7 +29,7 @@ This project is a simple yet functional web-based SFTP interface built using **S
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/sftp-springboot.git
+   git clone https://github.com/Concura/SFTP-Project.git
 
 2. Build and run:
    ./mvnw spring-boot:run
@@ -40,6 +43,12 @@ This project is a simple yet functional web-based SFTP interface built using **S
 Folder structure: 
 
 ![image](https://github.com/user-attachments/assets/ce821bd3-4d94-44a5-b34d-3c40d39a849e)
+
+Main interface of the SFTP Web application:
+
+![UI Preview](screenshot/login-screen.png)
+
+![UI Preview](screenshot/main-interface.png)
 
 
 License :
