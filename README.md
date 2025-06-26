@@ -62,7 +62,7 @@ See LICENSE file for details.
 
 
 
-## 🙌 Dukungan / Support
+## 🙌 Support 
 
 If this project is useful for you, please consider supporting me: 
 [![Ko-fi Support](https://img.shields.io/badge/☕%20Buy%20me%20a%20coffee-ytirta-orange?logo=ko-fi&style=flat)](https://ko-fi.com/ytirta)
