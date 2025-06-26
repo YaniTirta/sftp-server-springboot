@@ -1,6 +1,9 @@
 # SFTP-Project
 Building SFTP Server using Java Spring Boot
 
+[![Ko-fi Support](https://img.shields.io/badge/☕%20Buy%20me%20a%20coffee-ytirta-orange?logo=ko-fi&style=flat)](https://ko-fi.com/ytirta)
+
+
 # 📁 SFTP Web Interface with Spring Boot & Thymeleaf
 
 This project is a simple yet functional web-based SFTP interface built using **Spring Boot** and **Thymeleaf**. It provides a clean starting point for secure file operations over SFTP within a web application.
@@ -61,7 +64,10 @@ This project is shared openly to support learning and development. Feel free to 
 
 Jika proyek ini bermanfaat, pertimbangkan untuk mendukung saya:
 
-☕ [Buy Me a Coffee](https://buymeacoffee.com/ytirta)  
+☕ [https://ko-fi.com/ytirta](https://ko-fi.com/ytirta)
+
+Dukungan Anda membantu saya untuk terus mengembangkan open-source, menulis dokumentasi bilingual, dan berbagi solusi yang real-world friendly. Terima kasih! 🙏
+
 📘 [Dapatkan versi e-book di sini](https://lynk.id/ytirta/o1054g1w0ypq)
 
 
