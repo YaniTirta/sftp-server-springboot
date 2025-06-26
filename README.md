@@ -6,7 +6,7 @@ Building SFTP Server using Java Spring Boot
 
 # 📁 SFTP Web Interface with Spring Boot & Thymeleaf
 
-This project is a simple yet functional web-based SFTP interface built using **Spring Boot** and **Thymeleaf**. It provides a clean starting point for secure file operations over SFTP within a web application.
+This project is a simple yet functional web-based SFTP Server application built using **Spring Boot** and **Thymeleaf**. It provides a clean starting point for secure file operations over SFTP within a web application.
 
 ## ✨ Features
 
@@ -17,15 +17,16 @@ This project is a simple yet functional web-based SFTP interface built using **S
   - **Preview**
   - **Download**
 - ⬆️ Upload button for adding new files (placed outside the file grid)
-- Secure access directly to the folder using SFTP protocol at a configured port (in this example using port 2222)
-  - Use SFTP Client software to test this feature such as FileZila or WinSCP
-  - Build another project as SFTP Client to manage the SFTP Server folders locally and securely. This project can be integrated with your application as per your requirement.
+- Secure access directly to the folder using SFTP protocol at a configured port (in this example using port 2222). This file server feature with SFTP protocol access can be managed using available open source software or by building your own client application for this need.
+  - Use SFTP Client software to test this feature such as using FileZila or WinSCP
+  - Build another project such as SFTP Client application to manage the SFTP Server folders locally and securely. This project can be integrated with your application as per your requirement. (Feel free to message me if you need further assistance regarding this feature)
 
 ## 🛠️ Tech Stack
 
 - **Backend**: Java + Spring Boot
 - **Frontend**: Thymeleaf templating engine
 - **Security**: Spring Security (basic authentication or custom login)
+- **SFTP Server Module**: Apache MINA project
 
 ## 📦 Getting Started
 
@@ -56,8 +57,8 @@ Main interface of the SFTP Web application:
 
 
 License :
-This project is shared openly to support learning and development. Feel free to fork and enhance it. 
-See LICENSE file for details.
+This project is shared openly to help those of you who need your own SFTP Server module. It can be used as a stand-alone application to manage or backup your important files safely on the server or integrated with other existing applications.
+See the LICENCE file for details.
 
 
 
