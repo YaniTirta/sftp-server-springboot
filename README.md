@@ -54,18 +54,20 @@ Main interface of the SFTP Web application:
 ![UI Preview](screenshot/main-interface.png)
 
 
+
 License :
-This project is shared openly to support learning and development. Feel free to fork and enhance it. See LICENSE file for details.
+This project is shared openly to support learning and development. Feel free to fork and enhance it. 
+See LICENSE file for details.
 
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-blue?logo=buy-me-a-coffee&style=flat)](https://buymeacoffee.com/ytirta)
+
 
 ## 🙌 Dukungan / Support
 
-Jika proyek ini bermanfaat, pertimbangkan untuk mendukung saya:
+If this project is useful for you, please consider supporting me: 
 [![Ko-fi Support](https://img.shields.io/badge/☕%20Buy%20me%20a%20coffee-ytirta-orange?logo=ko-fi&style=flat)](https://ko-fi.com/ytirta)
 
-Dukungan Anda membantu saya untuk terus mengembangkan open-source, menulis dokumentasi bilingual, dan berbagi solusi yang real-world friendly. Terima kasih! 🙏
+Your support helps me to continue developing open-source, writing bilingual documentation, and sharing real-world friendly solutions. Thank you! 🙏
 
 📘 [Dapatkan versi e-book di sini](https://lynk.id/ytirta/o1054g1w0ypq)
 
