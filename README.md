@@ -63,8 +63,8 @@ This project is shared openly to support learning and development. Feel free to 
 ## 🙌 Dukungan / Support
 
 Jika proyek ini bermanfaat, pertimbangkan untuk mendukung saya:
-
 ☕ [https://ko-fi.com/ytirta](https://ko-fi.com/ytirta)
+[![Ko-fi Support](https://img.shields.io/badge/☕%20Buy%20me%20a%20coffee-ytirta-orange?logo=ko-fi&style=flat)](https://ko-fi.com/ytirta)
 
 Dukungan Anda membantu saya untuk terus mengembangkan open-source, menulis dokumentasi bilingual, dan berbagi solusi yang real-world friendly. Terima kasih! 🙏
 
