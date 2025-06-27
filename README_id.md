@@ -73,6 +73,8 @@ Lihat file LICENCE untuk detailnya.
 Jika proyek ini bermanfaat bagi Anda, dukungan anda akan sangat berarti:
 [![Ko-fi Support](https://img.shields.io/badge/☕%20Buy%20me%20a%20coffee-ytirta-orange?logo=ko-fi&style=flat)](https://ko-fi.com/ytirta)
 
+[![Dukung dan trakteer](https://img.shields.io/badge/☕%20Buy%20me%20a%20coffee-ytirta-orange?logo=ko-fi&style=flat)]([https://trakteer.id/ytirta])
+
 Dukungan Anda sangat berarti dalam membantu saya untuk terus mengembangkan perangkat lunak open source seperti ini, menulis dokumentasi dwibahasa, dan berbagi solusi yang mudah dipahami. Terima kasih! 🙏
 
 📘 [Dapatkan versi e-book di sini](https://lynk.id/ytirta/o1054g1w0ypq)
