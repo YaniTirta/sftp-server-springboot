@@ -70,6 +70,6 @@ If this project is useful for you, please consider supporting me:
 
 Your support helps me to continue developing open-source, writing bilingual documentation, and sharing real-world friendly solutions. Thank you! 🙏
 
-📘 [Dapatkan versi e-book di sini](https://lynk.id/ytirta/o1054g1w0ypq)
+📘 [Get e-book version here.. ](https://lynk.id/ytirta/zg5e01eg313j)
 
 
