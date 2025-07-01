@@ -17,7 +17,7 @@ Proyek ini adalah mengembangkan SFTP Server berbasis web yang dapat langsung dig
   - **Preview / Lihat**
   - **Download / Unduh**
 - ⬆️ Tombol Upload untuk menambah file baru yang ditempatkan diluar grid
-- Akses langsung ke folder di server secara aman menggunakan protokol SFTP yang dapat dikonfigurasi di port tertentu (dalam contoh proyek ini di port 2222)
+- Akses langsung ke folder di server secara aman menggunakan protokol SFTP yang dapat dikonfigurasi di port tertentu (dalam contoh proyek ini di port 2222). Fitur file server dengan akses protokol SFTP ini dapat dikelola menggunakan perangkat lunak yang sudah tersedia atau membangun sendiri aplikasi klien untuk kebutuhan ini
   - Pengaksesan server dapat menggunakan software khusus seperti FileZila atau WinScp
   - Dapat juga membangun project lain sebagai SFTP Client agar dapat diintegrasikan dengan aplikasi lain atau dapat juga berdiri sendiri untuk mengelola folder di server sesuai kebutuhan.
 
@@ -28,7 +28,6 @@ Proyek ini adalah mengembangkan SFTP Server berbasis web yang dapat langsung dig
 - **Security**: Spring Security (basic authentication or custom login)
 - **SFTP module**: Apache MINA project
 
-## 📦 Memulai, ikuti langkah berikut
 ## 📦 Memulai, ikuti langkah berikut
 
 1. Clone repository ini:
@@ -60,7 +59,6 @@ Contoh interface aplikasi SFTP Web :
 
 
 ## Licensi :
-## 📦 Memulai, ikuti langkah berikut
 
 Proyek ini dibagikan secara terbuka untuk membantu anda yang membutuhkan pegembangan modul SFTP Server. Dapat digunakan sebagai aplikasi yang berdiri sendiri untuk mengelola atau membuat cadangan (backup) file-file penting anda secara aman di server atau diintegrasikan dengan aplikasi lain yang sudah ada.
 Lihat file LICENCE untuk detailnya.
