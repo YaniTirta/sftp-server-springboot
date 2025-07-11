@@ -73,8 +73,9 @@ If this project is useful for you, please consider supporting me:
 Untuk anda yang berlokasi di Indonesia, dukung saya disini:
 [![Dukung di Trakteer](https://img.shields.io/badge/Dukung%20di-Trakteer-red?style=flat)](https://trakteer.id/ytirta)
 
-Your support helps me to continue developing open-source, writing bilingual documentation, and sharing real-world friendly solutions. Thank you! 🙏
-
 📘 [Dapatkan e-book nya disini.. ](https://lynk.id/ytirta/o1054g1w0ypq)
+
+Your support helps me to continue developing open-source project, writing bilingual documentation, and sharing real-world friendly solutions. Thank you! 🙏
+
 
 
