@@ -68,12 +68,12 @@ See the LICENCE file for details.
 If this project is useful for you, please consider supporting me: 
 [![Ko-fi Support](https://img.shields.io/badge/☕%20Buy%20me%20a%20coffee-ytirta-orange?logo=ko-fi&style=flat)](https://ko-fi.com/ytirta)
 
-📘 [Get e-book version here.. ](https://lynk.id/ytirta/zg5e01eg313j)
+📘 [Get e-book English version here.. ](https://lynk.id/ytirta/zg5e01eg313j)
 
 Untuk anda yang berlokasi di Indonesia, dukung saya disini:
 [![Dukung di Trakteer](https://img.shields.io/badge/Dukung%20di-Trakteer-red?style=flat)](https://trakteer.id/ytirta)
 
-📘 [Dapatkan e-book nya disini.. ](https://lynk.id/ytirta/o1054g1w0ypq)
+📘 [Dapatkan e-book dalam bahasa Indonesia disini.. ](https://lynk.id/ytirta/o1054g1w0ypq)
 
 Your support helps me to continue developing open-source project, writing bilingual documentation, and sharing real-world friendly solutions. Thank you! 🙏
 
